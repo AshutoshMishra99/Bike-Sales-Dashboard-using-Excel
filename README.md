@@ -2,6 +2,9 @@
 
 This project involves analyzing customer data to better understand factors influencing bike purchases. The analysis aims to reveal trends and insights that could guide business decisions, such as which customer segments are more likely to purchase bikes. The final dashboard, built in Excel, provides a comprehensive visual representation of key metrics.
 
+![image](https://github.com/user-attachments/assets/5aeee1eb-70b3-4574-9155-acfa3e3c89ed)
+
+
 ## Table of Contents
 - [Project Overview](#project-overview)
 - [Data Sources](#data-sources)
